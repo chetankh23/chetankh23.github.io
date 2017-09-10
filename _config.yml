@@ -14,7 +14,7 @@ description              : "My personal website"
 url                      : "https://chetankh23.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chetankh23/chetankh23.github.io"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "/assets/images/backdrop.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
