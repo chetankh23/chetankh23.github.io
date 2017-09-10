@@ -66,7 +66,10 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://twitter.com/ChetanKhilare"
+    - "https://www.facebook.com/chetan.khilare"
+    - "https://www.linkedin.com/in/chetankhilare"
 
 # Analytics
 analytics:
@@ -77,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Chetan Khilare"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
