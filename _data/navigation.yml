@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Blog"
-    url: https://chetankh23.github.io/blog/
+  - title: "About Me"
+    url: https://chetankh23.github.io/about-me/
   - title: "Portfolio"
     url: https://chetankh23.github.io/portfolio/
-  - title: "Projects"
-    url: https://chetankh23.github.io/projects/
-  - title: "Certifications"
-    url: https://chetankh23.github.io/certifications/
+  - title: "Testimonials"
+    url: https://chetankh23.github.io/testimonials/
+  - title: "Blog"
+    url: https://chetankh23.github.io/blog/
   - title: "Resume"
     url: https://chetankh23.github.io/resume/
