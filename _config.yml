@@ -243,11 +243,42 @@ defaults:
       type: posts
     values:
       layout: single
-      classes:
-        - landing
-        - dark-theme
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _testimonials
+  - scope:
+      path: ""
+      type: testimonials
+    values:
+      layout: single
+      author_profile: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _resume
+  - scope:
+      path: ""
+      type: resume
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
